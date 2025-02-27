@@ -72,6 +72,3 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más
 Contacto
 Si tienes alguna duda o pregunta, no dudes en ponerte en contacto.
 
-r
-Copiar
-Editar
